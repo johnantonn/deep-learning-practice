@@ -1,5 +1,5 @@
-# deep-learning-practice
-Python notebooks containing the building blocks and applications of deep learning
+# Deep Learning Practice
+This repository consists of various Python notebooks themed around neural networks and deep learning.
 
 ## Contents
 The list of notebooks includes:

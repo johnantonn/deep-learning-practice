@@ -7,7 +7,7 @@ The list of notebooks includes:
 - `tensor_ops.ipynb`
 - `linear_classifier.ipynb`
 
-The list is actively updated with new notebooks.
+The list is actively being updated with new notebooks.
 
 ## Disclaimer
 The implementations are inspired and sometimes directly copied from **Deep Learning with Python, Second Edition** by *Francois Chollet*.

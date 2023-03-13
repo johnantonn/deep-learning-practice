@@ -5,6 +5,7 @@ This repository consists of various Python notebooks themed around neural networ
 The list of notebooks includes:
 - `shallow_mnist_classification.ipynb`
 - `tensor_ops.ipynb`
+- `linear_classifier.ipynb`
 
 The list is actively updated with new notebooks.
 
